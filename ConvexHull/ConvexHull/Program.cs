@@ -33,7 +33,7 @@ namespace ConvexHull
 
             var polygon = xH.GrahamScan(points);
 
-            var scriptpath = "D://Inforamtyka//GGA//ConvexHulls//otoczka//a.R";
+            var scriptpath = "D://Inforamtyka//GGA//ConvexHull//otoczka//a.R";
 
             ExecuteScriptFile(scriptpath,fileName);
         }
