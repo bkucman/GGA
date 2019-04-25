@@ -4,5 +4,5 @@
 Projekty zaimplementowane za pomocą języka C#.
 ### Projekt1 - {0º}-jądro wielkąta prostego 
 ### Projekt2 - Para najbliższych punktów
-### Projekt3 -  kD-drzewa na płaszczyźnie: budowanie+przeszukiwanie
-### Projekt3 - Wyznaczanie otoczki wypukłej (skan Grahama)
+### Projekt3 - kD-drzewa na płaszczyźnie: budowanie+przeszukiwanie
+### Projekt4 - Wyznaczanie otoczki wypukłej (skan Grahama)
